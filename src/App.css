@@ -3,7 +3,7 @@
 }
 
 .App-header {
-  background-color: #3b5998;
+  background-color: #c23232;
   min-height: 20vh;
   display: flex;
   flex-direction: column;
@@ -12,6 +12,12 @@
   font-size: 2rem;
   color: white;
   margin-bottom: 75px;
+}
+
+.fb_style {
+  width: 400px;
+	margin: auto;					
+	padding: 20px;
 }
 
 .App-link {
@@ -35,7 +41,7 @@ code {
 
 @media only screen and (max-width: 600px) {
   .App-header {
-  background-color: #3b5998;
+  background-color: #c23232;
   min-height: 10vh;
   display: flex;
   flex-direction: column;

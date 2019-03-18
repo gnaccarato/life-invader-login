@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import Facebook from './components/Lifeinvader';
+import LifeInvader from './components/Lifeinvader';
 
 class App extends Component {
   render() {
@@ -9,8 +9,8 @@ class App extends Component {
         <header className="App-header">         
           <h1>Login to LifeInvader</h1>          
         </header>
-        <h3>Socialize and be Super Social</h3>
-        <Facebook />
+        <h2>Socialize and be Super Social</h2>
+        <LifeInvader />
       </div>
     );
   }
