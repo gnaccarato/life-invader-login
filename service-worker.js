@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gnaccarato/life-invader-login/precache-manifest.4e3eee28930ca861759ffa583ff7d615.js"
+  "/life-invader-login/precache-manifest.c3b1a299924f30440820f23c0a019bf8.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/gnaccarato/life-invader-login/index.html", {
+workbox.routing.registerNavigationRoute("/life-invader-login/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

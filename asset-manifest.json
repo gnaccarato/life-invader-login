@@ -1,13 +1,13 @@
 {
-  "main.css": "/gnaccarato/life-invader-login/static/css/main.856a8308.chunk.css",
-  "main.js": "/gnaccarato/life-invader-login/static/js/main.2cabcaf7.chunk.js",
-  "main.js.map": "/gnaccarato/life-invader-login/static/js/main.2cabcaf7.chunk.js.map",
-  "static/js/1.d22bfa49.chunk.js": "/gnaccarato/life-invader-login/static/js/1.d22bfa49.chunk.js",
-  "static/js/1.d22bfa49.chunk.js.map": "/gnaccarato/life-invader-login/static/js/1.d22bfa49.chunk.js.map",
-  "runtime~main.js": "/gnaccarato/life-invader-login/static/js/runtime~main.b8176be0.js",
-  "runtime~main.js.map": "/gnaccarato/life-invader-login/static/js/runtime~main.b8176be0.js.map",
-  "static/css/main.856a8308.chunk.css.map": "/gnaccarato/life-invader-login/static/css/main.856a8308.chunk.css.map",
-  "index.html": "/gnaccarato/life-invader-login/index.html",
-  "precache-manifest.4e3eee28930ca861759ffa583ff7d615.js": "/gnaccarato/life-invader-login/precache-manifest.4e3eee28930ca861759ffa583ff7d615.js",
-  "service-worker.js": "/gnaccarato/life-invader-login/service-worker.js"
+  "main.css": "/life-invader-login/static/css/main.856a8308.chunk.css",
+  "main.js": "/life-invader-login/static/js/main.6809a7d1.chunk.js",
+  "main.js.map": "/life-invader-login/static/js/main.6809a7d1.chunk.js.map",
+  "static/js/1.d22bfa49.chunk.js": "/life-invader-login/static/js/1.d22bfa49.chunk.js",
+  "static/js/1.d22bfa49.chunk.js.map": "/life-invader-login/static/js/1.d22bfa49.chunk.js.map",
+  "runtime~main.js": "/life-invader-login/static/js/runtime~main.3f48b038.js",
+  "runtime~main.js.map": "/life-invader-login/static/js/runtime~main.3f48b038.js.map",
+  "static/css/main.856a8308.chunk.css.map": "/life-invader-login/static/css/main.856a8308.chunk.css.map",
+  "index.html": "/life-invader-login/index.html",
+  "precache-manifest.c3b1a299924f30440820f23c0a019bf8.js": "/life-invader-login/precache-manifest.c3b1a299924f30440820f23c0a019bf8.js",
+  "service-worker.js": "/life-invader-login/service-worker.js"
 }
